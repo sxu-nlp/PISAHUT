@@ -1,0 +1,6 @@
+numpy
+transformers==4.27.1
+torch>=1.10
+sklearn
+random
+einops
